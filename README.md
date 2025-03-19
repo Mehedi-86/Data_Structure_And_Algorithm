@@ -1,4 +1,4 @@
-<h1 align="center">📌 Data Structure & Algorithm Repository</h1>
+<h1 align="center">📌 Data Structure & Algorithm Repository!</h1>
 
 <p align="center">
   <b>A comprehensive collection of fundamental and advanced algorithms implemented in C++.</b>
